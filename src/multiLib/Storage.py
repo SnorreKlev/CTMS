@@ -153,7 +153,10 @@ class data:
     def delete(self) -> None:
         """
         sletter data for klassen \'data\'
-
+        
+        OBS! Etter ett datasett er slettet, kan 
+        ikke samme navn bli brukt igjen
+        
         Parametere:
         Ingen.
 
